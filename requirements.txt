@@ -1,0 +1,14 @@
+optimuspyspark
+aiohttp
+aiodns
+beautifulsoup4
+cchardet
+elasticsearch
+pysocks
+pandas>=0.23.0
+aiohttp_socks
+schedule
+geopy
+nest_asyncio
+TextBlob
+wordcloud
